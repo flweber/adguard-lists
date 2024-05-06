@@ -71,6 +71,30 @@ My personal block- and whitelists for AdGuard Home
 | referral-sites - anudeepND   | [raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt) |
 | whitelist - anudeepND        | [raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt)       |
 
+## DNS Settings
+
+### Upstream DNS Servers
+
+- tls://1dot1dot1dot1.cloudflare-dns.com
+- https://cloudflare-dns.com/dns-query
+- https://dns10.quad9.net/dns-query
+- tls://dns10.quad9.net
+
+### Bootstrap DNS Servers
+
+- 1.1.1.1
+- 1.0.0.1
+- 2606:4700:4700::1111
+- 2606:4700:4700::1001
+- 8.8.8.8
+- 8.8.4.4
+- 2001:4860:4860::8888
+- 2001:4860:4860::8844
+- 9.9.9.10
+- 149.112.112.10
+- 2620:fe::10
+- 2620:fe::fe:10
+
 ## Deployment
 
 ### Docker Compose file
