@@ -6,12 +6,22 @@ My personal block- and whitelists for AdGuard Home
 
 ### Upstream DNS Servers
 
+- tls://dns1.morlana.net
+- https://dns1.morlana.net/dns-query
+
+### Fallback DNS Servers
+
 - tls://1dot1dot1dot1.cloudflare-dns.com
 - https://cloudflare-dns.com/dns-query
 - https://dns10.quad9.net/dns-query
 - tls://dns10.quad9.net
 
 ### Bootstrap DNS Servers
+
+- 152.53.17.185
+- 2a0a:4cc0:1:1221:349e:80ff:fe15:55e8
+
+#### Old Bootstrap DNS Servers
 
 - 1.1.1.1
 - 1.0.0.1
