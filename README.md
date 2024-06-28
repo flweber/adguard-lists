@@ -8,6 +8,8 @@ My personal block- and whitelists for AdGuard Home
 
 - tls://dns1.morlana.net
 - https://dns1.morlana.net/dns-query
+- tls://dns2.morlana.net
+- https://dns2.morlana.net/dns-query
 
 ### Fallback DNS Servers
 
@@ -20,6 +22,8 @@ My personal block- and whitelists for AdGuard Home
 
 - 152.53.17.185
 - 2a0a:4cc0:1:1221:349e:80ff:fe15:55e8
+- 45.83.247.102
+- 2a0f:580:7:1e::6
 
 #### Old Bootstrap DNS Servers
 
